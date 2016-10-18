@@ -1,0 +1,7 @@
+__pycache__/
+.git/
+env/
+dist/
+build/
+*.jpg
+*.spec
